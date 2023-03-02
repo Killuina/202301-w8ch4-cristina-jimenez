@@ -4,6 +4,7 @@
 
 - Current number
 - Former number
+- Operator
 
 ## Data modifications
 
@@ -39,8 +40,6 @@
 - Shows the received number or operator
 - Receives an action
 - Onclick executes the received action
-
-## Delete button
 
 ## Keyboard
 
